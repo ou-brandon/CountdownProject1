@@ -1,0 +1,18 @@
+h1 {
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+p {
+    color: darkblue;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+ul {
+    color: blue;
+    text-align: center;
+}
+li {
+    color: lightblue;
+    text-align: center;
+}
