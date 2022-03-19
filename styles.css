@@ -1,18 +1,30 @@
 h1 {
     color: black;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
+    margin: 25px 50px 50px 70px;
+    background-color: bisque;
+    border: 3px beige solid
 }
-p {
+h2 {
     color: darkblue;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 25px 50px 50px 70px;
+    background-color: lightblue;
+    border: 3px black dotted;
     text-align: center;
 }
 ul {
-    color: blue;
-    text-align: center;
+
+    margin: 10px 10px 10px 10px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 li {
-    color: lightblue;
+
+    margin: 5px 10px 10px 5px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.list-item{
     text-align: center;
+
 }
